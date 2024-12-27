@@ -11,6 +11,16 @@ var window = new ClayWindow(800,600,"Clay Test");
 
 RaylibManager.LoadFont("Roboto-Regular.ttf");
 
+// Im using mud here as a way of abstracting the clay render calls, however you can use clay directly if you want.
+// For example:
+// ClayMacros.Rectangle(new Clay_RectangleElementConfig(){
+// whatever
+// }, () => {
+//     ClayMacros.Text(new Clay_TextElementConfig(){
+//         whatever
+//     });
+// });
+
 var mud = new Mud.Mud(true);
 
 var root = new Layout()
@@ -50,16 +60,11 @@ void AddElement()
 {
     root.Elements.Add(new Rectangle()
     {
-        Clickable = true,
-        ClickAction = () =>
-        {
-            AddElement();
-        },
         Elements = new List<MudElement>()
         {
             new Text()
             {
-                TextContent = "Hello, World!" + root.Elements.Count,
+                TextContent = "Hello, World!",
                 FontID = RaylibManager.GetFontID("Roboto-Regular.ttf"),
                 FontSize = 20,
                 Color = new Clay_Color()
@@ -76,15 +81,10 @@ void AddElement()
 
 mud.Add(root);
 
-void UI()
-{
-    mud.Render();
-}
-
 window.Render += () =>
 {
     Mud.Input.Left = Raylib.IsMouseButtonReleased(MouseButton.Left);
-    UI();
+    mud.Render();
 };
 
 window.Run();

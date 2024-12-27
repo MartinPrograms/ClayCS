@@ -1,0 +1,195 @@
+﻿  ClayLibrary.cpp
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(610,15): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1203,12): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1205,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1259,12): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1261,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1294,12): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1296,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1480,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1551,13): warning C4244: '+=': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1658,16): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1785,57): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1810,122): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1827,35): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1872,71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(1892,72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2059,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2065,47): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2119,39): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2143,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2225,59): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2245,55): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2327,53): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2380,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2389,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2443,39): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2510,39): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2561,39): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2586,69): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2605,69): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2650,63): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(2731,39): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3006,69): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3086,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3093,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3115,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3117,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3119,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3121,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3133,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3135,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3137,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3139,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3163,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3178,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3262,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3264,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3266,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3268,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3319,69): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3372,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3374,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3402,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3404,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3411,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3413,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3486,21): warning C4244: 'return': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3588,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3591,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3604,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3651,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3774,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3797,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+C:\Users\marti\RiderProjects\Clay\Clay\Native\Swiggin\cpp\clay.h(3807,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '../../../../RiderProjects/Clay/Clay/Native/Swiggin/cpp/ClayLibrary.cpp')
+  
+  LINK : C:\Users\marti\source\repos\Clay\x64\Debug\ClayLibrary.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\marti\source\repos\Clay\x64\Debug\ClayLibrary.lib and object C:\Users\marti\source\repos\Clay\x64\Debug\ClayLibrary.exp
+  Clay.vcxproj -> C:\Users\marti\source\repos\Clay\x64\Debug\ClayLibrary.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

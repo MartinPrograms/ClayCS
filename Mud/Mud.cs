@@ -4,6 +4,8 @@ namespace Mud;
 
 /// <summary>
 /// Mud is an easy to use wrapper on top of the clay library.
+/// Why? because clay is very much a c api and very much not user friendly in the state that it is in.
+/// The bindings function, however they are not user friendly.
 /// </summary>
 public class Mud
 {

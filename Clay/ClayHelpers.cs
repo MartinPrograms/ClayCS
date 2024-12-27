@@ -44,6 +44,11 @@ public class ClayHelpers
         public ushort lineHeight;
         public Clay_TextElementConfigWrapMode_N wrapMode;
     }
+    
+    /// <summary>
+    /// Unfortunately because swig didn't generate the correct struct definitions, we have to define them manually
+    /// This is the only time we have to do this, as the rest of the structs are generated correctly (or at least aren't passed in function pointers)
+    /// </summary>
     public unsafe delegate Clay_Dimensions_N MeasureTextDelegate(Clay_String_N* str, Clay_TextElementConfig_N* config);
 
     [global::System.Runtime.InteropServices.DllImport("ClayLibrary", EntryPoint="SetMeasureText")]
@@ -56,8 +61,8 @@ public class ClayHelpers
         }
 
      */
-
     public static extern void SetMeasureText(MeasureTextDelegate measureText);
+    
     
     public static Clay_Arena Init(MeasureTextDelegate measureTextDelegate)
     {
